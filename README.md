@@ -1,5 +1,8 @@
-Visual Studio Code + Python + Streamlit (Web) + API (TMDB API + NewsAPI + Yahoo Finance + Google Trends RSS Feed + Open-Meteo + VirusTotal + Shodan & Scapy + p5 + EasyOCR & OpenCV + Scikit-Learn + OpenAI Whisper + Google Web Speech & SpeechRecognition + Google Translate TTS + FastAPI WebSockets + DuckDuckGo HTML Search & BeautifulSoup + Selenium + Google Maps Web Embed Parameter)<br>
+Visual Studio Code + Python + Streamlit (Web) + CLI (Ruff) + API (TMDB API + NewsAPI + Yahoo Finance + Google Trends RSS Feed + Open-Meteo + VirusTotal + Shodan & Scapy + p5 + EasyOCR & OpenCV + Scikit-Learn + OpenAI Whisper + Google Web Speech & SpeechRecognition + Google Translate TTS + FastAPI WebSockets + DuckDuckGo HTML Search & BeautifulSoup + Selenium + Google Maps Web Embed Parameter + HuggingFace)<br>
 <img width="1920" height="1140" alt="코드" src="https://github.com/user-attachments/assets/409d6486-dba5-4196-a396-7d0f57d7a683" /><br><br>
+
+Ruff<br>
+<img width="1333" height="915" alt="ruff" src="https://github.com/user-attachments/assets/5d200519-ffa6-4eef-aabe-b7f45c621936" /><br><br>
 
 API<br>
 TMDB API<br>
@@ -54,4 +57,7 @@ Selenium<br>
 <img width="1297" height="1107" alt="웹매크로" src="https://github.com/user-attachments/assets/bdaf7212-8156-4d81-ae4e-82a49412e82b" /><br><br>
 
 Google Maps Web Embed Parameter<br>
-<img width="1918" height="977" alt="구글지도" src="https://github.com/user-attachments/assets/25a4f553-1f87-440a-add2-0d292da83de2" />
+<img width="1918" height="977" alt="구글지도" src="https://github.com/user-attachments/assets/25a4f553-1f87-440a-add2-0d292da83de2" /><br><br>
+
+HuggingFace<br>
+<img width="1917" height="972" alt="huggingface" src="https://github.com/user-attachments/assets/62d3ed39-69e2-4ba9-a339-0a40c9fe4696" />
