@@ -59,5 +59,5 @@ Selenium<br>
 Google Maps Web Embed Parameter<br>
 <img width="1918" height="977" alt="구글지도" src="https://github.com/user-attachments/assets/25a4f553-1f87-440a-add2-0d292da83de2" /><br><br>
 
-HuggingFace<br>
+HuggingFace - Meta LLaMA<br>
 <img width="1917" height="972" alt="huggingface" src="https://github.com/user-attachments/assets/62d3ed39-69e2-4ba9-a339-0a40c9fe4696" />
