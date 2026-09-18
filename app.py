@@ -22,6 +22,9 @@ from modules.live_chat import get_room_messages, send_room_message
 from modules.web_crawling import perform_search_and_scrape
 from modules.web_macro import run_google_image_macro
 from modules.google_map import render_google_map, MAP_LOCATIONS
+from modules.huggingface_chatbot import get_hf_response
+from modules.db_memo import render_todo_ui
+from modules.db_stock import render_stock_game
 
 st.set_page_config(
     page_title="Multitool Hub",
@@ -528,7 +531,7 @@ def render_live_chat():
 
 def render_web_crawling():
     st.title("🌐 실시간 웹 크롤링 및 요약")
-    st.caption("DuckDuckGo 검색 결과 파싱 & 본문 스크래핑")
+    st.caption("DuckDuckGo 검색 결과 파 파싱 & 본문 스크래핑")
 
     col_kw, col_limit = st.columns([4, 1])
     with col_kw:
@@ -601,6 +604,27 @@ def render_google_map_ui():
 
     render_google_map(target_place, height=650)
 
+def render_hf_chatbot():
+    st.title("🤖 HuggingFace 챗봇")
+    
+    if "hf_messages" not in st.session_state:
+        st.session_state.hf_messages = []
+
+    for msg in st.session_state.hf_messages:
+        with st.chat_message(msg["role"]):
+            st.markdown(msg["content"])
+
+    if prompt := st.chat_input("메시지를 입력하세요"):
+        st.session_state.hf_messages.append({"role": "user", "content": prompt})
+        with st.chat_message("user"):
+            st.markdown(prompt)
+
+        with st.chat_message("assistant"):
+            with st.spinner("답변 생성 중..."):
+                response = get_hf_response(st.session_state.hf_messages)
+                st.markdown(response)
+        st.session_state.hf_messages.append({"role": "assistant", "content": response})
+
 def main():
     st.sidebar.title("🛠️ Multitool Hub")
     selected = st.sidebar.radio(
@@ -623,7 +647,10 @@ def main():
             "💬 라이브챗",
             "🌐 웹 크롤링",
             "🤖 웹 매크로",
-            "🗺️ 구글 지도"
+            "🗺️ 구글 지도",
+            "🤖 HuggingFace 챗봇",
+            "📝 DB 연동 메모장",
+            "📈 DB 연동 주식"
         ]
     )
     
@@ -668,6 +695,12 @@ def main():
         render_web_macro()
     elif selected == "🗺️ 구글 지도":
         render_google_map_ui()
+    elif selected == "🤖 HuggingFace 챗봇":
+        render_hf_chatbot()
+    elif selected == "📝 DB 연동 메모장":
+        render_todo_ui()
+    elif selected == "📈 DB 연동 주식":
+        render_stock_game()
 
 if __name__ == "__main__":
     main()
