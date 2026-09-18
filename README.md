@@ -1,4 +1,4 @@
-Visual Studio Code + Python + Streamlit (Web) + CLI (Ruff) + API (TMDB API + NewsAPI + Yahoo Finance + Google Trends RSS Feed + Open-Meteo + VirusTotal + Shodan & Scapy + p5 + EasyOCR & OpenCV + Scikit-Learn + OpenAI Whisper + Google Web Speech & SpeechRecognition + Google Translate TTS + FastAPI WebSockets + DuckDuckGo HTML Search & BeautifulSoup + Selenium + Google Maps Web Embed Parameter + HuggingFace)<br>
+Visual Studio Code + Python + Streamlit (Web) + CLI (Ruff) + API (TMDB API + NewsAPI + Yahoo Finance + Google Trends RSS Feed + Open-Meteo + VirusTotal + Shodan & Scapy + p5 + EasyOCR & OpenCV + Scikit-Learn + OpenAI Whisper + Google Web Speech & SpeechRecognition + Google Translate TTS + FastAPI WebSockets + DuckDuckGo HTML Search & BeautifulSoup + Selenium + Google Maps Web Embed Parameter + HuggingFace) + DB (MariaDB + HeidiSQL, MongoDB)<br>
 <img width="1920" height="1140" alt="코드" src="https://github.com/user-attachments/assets/409d6486-dba5-4196-a396-7d0f57d7a683" /><br><br>
 
 Ruff<br>
@@ -60,4 +60,14 @@ Google Maps Web Embed Parameter<br>
 <img width="1918" height="977" alt="구글지도" src="https://github.com/user-attachments/assets/25a4f553-1f87-440a-add2-0d292da83de2" /><br><br>
 
 HuggingFace - Meta LLaMA<br>
-<img width="1917" height="972" alt="huggingface" src="https://github.com/user-attachments/assets/62d3ed39-69e2-4ba9-a339-0a40c9fe4696" />
+<img width="1917" height="972" alt="huggingface" src="https://github.com/user-attachments/assets/62d3ed39-69e2-4ba9-a339-0a40c9fe4696" /><br><br>
+
+DB<br>
+MariaDB + HeidiSQL<br>
+<img width="1917" height="970" alt="db 메모장" src="https://github.com/user-attachments/assets/2e0e64b1-d909-4123-9296-69657d6f2365" /><br>
+<img width="1920" height="1140" alt="db mariadb" src="https://github.com/user-attachments/assets/c8336c2e-5fb4-4983-a75f-24eb4e061ee4" /><br><br>
+
+MongoDB<br>
+<img width="1918" height="967" alt="db 주식" src="https://github.com/user-attachments/assets/963ae8de-217f-4cf1-ab30-5b0d3738ca95" /><br>
+<img width="1920" height="1140" alt="db mongodb" src="https://github.com/user-attachments/assets/2a565901-5c8a-4fcc-b2c4-72437f9f6604" /><br>
+<img width="1920" height="1140" alt="db mongodb2" src="https://github.com/user-attachments/assets/16a4387a-63b1-428b-a7e4-73dfc61a5133" />
