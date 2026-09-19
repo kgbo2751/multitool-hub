@@ -70,9 +70,9 @@ MariaDB + HeidiSQL<br>
 MongoDB<br>
 <img width="1918" height="967" alt="db 주식" src="https://github.com/user-attachments/assets/963ae8de-217f-4cf1-ab30-5b0d3738ca95" /><br>
 <img width="1920" height="1140" alt="db mongodb" src="https://github.com/user-attachments/assets/2a565901-5c8a-4fcc-b2c4-72437f9f6604" /><br>
-<img width="1920" height="1140" alt="db mongodb2" src="https://github.com/user-attachments/assets/16a4387a-63b1-428b-a7e4-73dfc61a5133" />
+<img width="1920" height="1140" alt="db mongodb2" src="https://github.com/user-attachments/assets/16a4387a-63b1-428b-a7e4-73dfc61a5133" /><br><br>
 
 AWS EC2 (T3.Micro - Cloud Web Server)<br>
-<img width="1916" height="932" alt="aws 인스턴스 수정" src="https://github.com/user-attachments/assets/7916b22c-1871-46b7-926e-a8b26484a1ec" />
-<img width="1918" height="1020" alt="aws cli 수정" src="https://github.com/user-attachments/assets/2fa6761b-f2b7-4a54-9d09-7dc2d5205338" />
+<img width="1916" height="932" alt="aws 인스턴스 수정" src="https://github.com/user-attachments/assets/7916b22c-1871-46b7-926e-a8b26484a1ec" /><br>
+<img width="1918" height="1020" alt="aws cli 수정" src="https://github.com/user-attachments/assets/2fa6761b-f2b7-4a54-9d09-7dc2d5205338" /><br>
 <img width="1918" height="1070" alt="aws 클라우드 웹서버 수정" src="https://github.com/user-attachments/assets/0021b0a2-2a81-426a-855b-9d7951fc7177" />
