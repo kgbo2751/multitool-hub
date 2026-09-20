@@ -72,7 +72,7 @@ MongoDB<br>
 <img width="1920" height="1140" alt="db mongodb" src="https://github.com/user-attachments/assets/2a565901-5c8a-4fcc-b2c4-72437f9f6604" /><br>
 <img width="1920" height="1140" alt="db mongodb2" src="https://github.com/user-attachments/assets/16a4387a-63b1-428b-a7e4-73dfc61a5133" /><br><br>
 
-Redis + Another Redis Desktop Manager<br>
+Redis (ZSET, SETNX, Pipeline) + Another Redis Desktop Manager<br>
 <img width="1919" height="894" alt="db 티켓팅" src="https://github.com/user-attachments/assets/dbd0f1c0-4d2d-496b-bfcb-2eec484e292f" /><br>
 <img width="1920" height="1032" alt="db redis" src="https://github.com/user-attachments/assets/1d5196ba-12ed-4229-9086-147fdc43175f" /><br><br>
 
