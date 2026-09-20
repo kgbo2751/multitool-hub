@@ -1,4 +1,4 @@
-Visual Studio Code + Python + Streamlit (Web) + CLI (Ruff) + API (TMDB API + NewsAPI + Yahoo Finance + Google Trends RSS Feed + Open-Meteo + VirusTotal + Shodan & Scapy + p5 + EasyOCR & OpenCV + Scikit-Learn + OpenAI Whisper + Google Web Speech & SpeechRecognition + Google Translate TTS + FastAPI WebSockets + DuckDuckGo HTML Search & BeautifulSoup + Selenium + Google Maps Web Embed Parameter + HuggingFace) + DB (MariaDB + HeidiSQL, MongoDB) +  AWS EC2 (T3.Micro - Cloud Web Server)<br>
+Visual Studio Code + Python + Streamlit (Web) + CLI (Ruff) + API (TMDB API + NewsAPI + Yahoo Finance + Google Trends RSS Feed + Open-Meteo + VirusTotal + Shodan & Scapy + p5 + EasyOCR & OpenCV + Scikit-Learn + OpenAI Whisper + Google Web Speech & SpeechRecognition + Google Translate TTS + FastAPI WebSockets + DuckDuckGo HTML Search & BeautifulSoup + Selenium + Google Maps Web Embed Parameter + HuggingFace) + DB (MariaDB + HeidiSQL, MongoDB, Redis + Another Redis Desktop Manager) +  AWS EC2 (T3.Micro - Cloud Web Server)<br>
 <img width="1920" height="1140" alt="코드" src="https://github.com/user-attachments/assets/409d6486-dba5-4196-a396-7d0f57d7a683" /><br><br>
 
 Ruff<br>
@@ -71,6 +71,10 @@ MongoDB<br>
 <img width="1918" height="967" alt="db 주식" src="https://github.com/user-attachments/assets/963ae8de-217f-4cf1-ab30-5b0d3738ca95" /><br>
 <img width="1920" height="1140" alt="db mongodb" src="https://github.com/user-attachments/assets/2a565901-5c8a-4fcc-b2c4-72437f9f6604" /><br>
 <img width="1920" height="1140" alt="db mongodb2" src="https://github.com/user-attachments/assets/16a4387a-63b1-428b-a7e4-73dfc61a5133" /><br><br>
+
+Redis + Another Redis Desktop Manager<br>
+<img width="1919" height="894" alt="db 티켓팅" src="https://github.com/user-attachments/assets/dbd0f1c0-4d2d-496b-bfcb-2eec484e292f" /><br>
+<img width="1920" height="1032" alt="db redis" src="https://github.com/user-attachments/assets/1d5196ba-12ed-4229-9086-147fdc43175f" /><br><br>
 
 AWS EC2 (T3.Micro - Cloud Web Server)<br>
 <img width="1916" height="932" alt="aws 인스턴스 수정" src="https://github.com/user-attachments/assets/7916b22c-1871-46b7-926e-a8b26484a1ec" /><br>
