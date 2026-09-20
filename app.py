@@ -25,6 +25,7 @@ from modules.google_map import render_google_map, MAP_LOCATIONS
 from modules.huggingface_chatbot import get_hf_response
 from modules.db_memo import render_todo_ui
 from modules.db_stock import render_stock_game
+from modules.db_ticket import render_ticket_system
 
 st.set_page_config(
     page_title="Multitool Hub",
@@ -650,7 +651,8 @@ def main():
             "🗺️ 구글 지도",
             "🤖 HuggingFace 챗봇",
             "📝 DB 연동 메모장",
-            "📈 DB 연동 주식"
+            "📈 DB 연동 주식",
+            "🎫 DB 연동 티켓팅"
         ]
     )
     
@@ -701,6 +703,8 @@ def main():
         render_todo_ui()
     elif selected == "📈 DB 연동 주식":
         render_stock_game()
+    elif selected == "🎫 DB 연동 티켓팅":
+        render_ticket_system()
 
 if __name__ == "__main__":
     main()
